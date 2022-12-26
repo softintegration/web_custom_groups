@@ -1,0 +1,14 @@
+
+.o_new-group {
+    font-weight:bold;
+    color:#5D8DA8;
+    box-shadow: 0 1px 0 rgba(73, 80, 87, 0.05);
+}
+
+.o_new-group-medium {
+    font-size:16px;
+}
+
+.o_new-group-big {
+    font-size:20px;
+}
